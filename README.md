@@ -1,3 +1,3 @@
 # moviestars-cinema
 
-Versione corrente: 0.1.0
+Versione corrente: 0.2.0
